@@ -40,3 +40,7 @@ dw_php_codehinting.config
 .ftpignore
 *.ftpconfig
 *.ftpignore
+
+# ignore JavaScript node modules  
+node_modules
+
